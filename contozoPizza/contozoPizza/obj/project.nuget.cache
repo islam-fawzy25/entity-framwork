@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u4XEdX1L9Yd5tt9md2KqASoEDeVeSkxzq9mHnZ40GhSzCISk/xV4EPXH692HTa/q9f487Y19/R6/1xVCebCEPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\islam\\Documents\\GitHub\\entity-framwork\\contozoPizza\\contozoPizza\\contozoPizza.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\islam\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
